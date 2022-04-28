@@ -269,15 +269,15 @@
                                       <include>**/OrderingLoggedInSuite_3.java</include>
                                       <include>**/FilteringTestSuite*.java</include>-->
                                       <include>**/ApplyAllFiltersSuite*.java</include>
-                                     <include>**/LoggingInSuite*.java</include>
+                               <!--      <include>**/LoggingInSuite*.java</include>
                                          <include>**/NavigatingWebsiteSuite_1*.java</include>
                                      <include>**/NavigatingWebsiteSuite_2*.java</include>
                                         <include>**/SortingSuite*.java</include>
                                 <include>**/UsingMinicartSuite_1*.java</include>
                                <include>**/UsingMinicartSuite_2*.java</include>
                                <include>**/UsingMyAccountSuite*.java</include>
-                             <include>**/ProductPageSuite*.java</include>-->
-                                <include>**/OrderProductsFromCategories*.java</include>
+                             <include>**/ProductPageSuite*.java</include>&ndash;&gt;
+                                <include>**/OrderProductsFromCategories*.java</include>-->
 
                             </includes>
                             <parallel>suites</parallel>

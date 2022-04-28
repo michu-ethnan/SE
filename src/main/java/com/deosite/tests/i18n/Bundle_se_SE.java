@@ -20,7 +20,7 @@ public class Bundle_se_SE extends ListResourceBundle {
                 {"capacity (ml) label", "pojemność (ml)"},
 
                 // Products
-                {"mug", "Taza"},
+                {"mug", "Muggg"},
                 {"cup", "hrnek"},
 
                 {"configurable product", "kubek palette"},
